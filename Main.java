@@ -6,6 +6,7 @@ public class wHatIsThIssEvenDoing{
     for(int i=0;i<numbrz.length;++i)
     System.out.println(numbrz[i])
   }
+
   
   public static void sortz(int[] wat){ 
     for(int i=0;i<wat.length;i++){
